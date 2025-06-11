@@ -1,4 +1,5 @@
-To execute this code, add all the dependency packages using pip 
+To execute this code, add all the dependency packages using pip:
+
 pip3 install pandas
 pip3 install tqdm
 pip install tenacity
