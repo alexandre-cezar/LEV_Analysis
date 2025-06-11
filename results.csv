@@ -1,0 +1,3 @@
+CVE_ID,D0,Dn,LEV_Score,Days_Scanned_In_Interval,API_Calls_For_CVE,Processing_Error_Messages
+CVE-2021-44228,2025-03-05,2025-06-03,1.0,91,91,
+CVE-2025-35939,2025-03-05,2025-06-03,0.627182,91,91,
